@@ -1,0 +1,95 @@
+
+
+
+#címsor {
+    text-align: center;
+    margin-bottom: 70px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#önt {
+    width: 300px;
+    margin-left: 230px;
+}
+
+#elso {
+    text-align: justify;
+    position: initial;
+    
+}
+
+.gomb {
+    border: 2px dotted black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: lawngreen;
+}
+
+.gomb:hover{
+    background-color: blueviolet;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#toas{
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+}
+
+#tartalom {
+    background-color: gray;
+    border-radius: 10px;
+    border: 2px double black;
+}
+
+.col-md-12 {
+    text-align: justify;
+}
+
+body {
+    background-image: url(https://a-static.besthdwallpaper.com/nyaralas-husveti-nyul-tojast-tapeta-1920x1080-20780_48.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.nepi {
+    margin-bottom: 20px;
+    height: 160px;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.vic{
+    margin-bottom: 20px;
+    height: 150px;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.gyer{
+    height: 110px;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.telj{
+    text-align: center;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.telj:hover {
+    background-color: red;
+}
+
+.szin:hover {
+    background-color: red;
+    width: 400px;
+    text-decoration: none;
+    margin: auto;
+    position: relative;
+}
